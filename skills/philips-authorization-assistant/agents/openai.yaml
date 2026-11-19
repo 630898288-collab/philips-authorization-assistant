@@ -1,0 +1,4 @@
+interface:
+  display_name: "飞利浦授权与独立站助手"
+  short_description: "引导申请、登记、商标查询及邮件草稿"
+  default_prompt: "帮我判断需要哪种飞利浦品牌授权，逐步准备资料，并按我的选择办理登记或起草邮件。"
